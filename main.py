@@ -3,7 +3,7 @@ import pygame, os, sys
 
 # Const
 FILE_TYPE = ".png"
-SOURCE_FILENAME = "Test"
+SOURCE_FILENAME = "AlbumArt"
 OUTPUT_PATH = "Output"
 OUTPUT_FILENAME = SOURCE_FILENAME + "_out"
 TARGET_HEIGHT = 600
